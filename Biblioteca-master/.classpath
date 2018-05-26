@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+<<<<<<< HEAD
+	<classpathentry kind="lib" path="/home/matinal/Descargas/sqlite-jdbc-3.16.1.jar"/>
+=======
+>>>>>>> 98fff325416d27f61fd723b762c2c267a1d621a7
+	<classpathentry kind="output" path="bin"/>
+</classpath>

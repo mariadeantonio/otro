@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+/controlador/
+/modelo/
+/vista/
+=======
+/.DS_Store
+/modelo/
+/vista/
+/controlador/
+/DAO/
+>>>>>>> 98fff325416d27f61fd723b762c2c267a1d621a7
